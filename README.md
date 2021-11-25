@@ -1,1 +1,3 @@
 # Customer-Segmentation
+
+Customer Segmentation is the process of division of customer base into several groups of individuals that share a similarity in different ways that are relevant to marketing such as gender, age, interests, and miscellaneous spending habits. Demographic, psychographic, behavioral and geographic segmentation are considered the four main types of market segmentation, but there are also many other strategies you can use, including numerous variations on the four main types. One very common machine learning algorithm that's suitable for customer segmentation problems is the k-means clustering algorithm. 
