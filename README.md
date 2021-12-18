@@ -4,7 +4,7 @@ Customer Segmentation is the process of division of customer base into several g
 
 **Other Detail:**
 
-This project has been developed by Prateek Dutta for the purpose of institutional project.
+This project has been developed by Prateek Dutta for the purpose of educational purpose.
 
 Dataset can be shared on requirement basis for educational purpose only. Candidate with requirement can mail a by mentioning the designation and current role with proper identity card in attachment.
 
